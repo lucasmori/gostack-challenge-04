@@ -2,7 +2,7 @@
 <img alt="Logo" title="#logo" width="1000px" src=".github/logo.png"/>
 <br/>
 <br/>
-<b>GoStack Rocketseat - Challenge 03!</b>
+<b>GoStack Rocketseat - Challenge 04!</b>
 </div>
 
 # :pushpin: Index
