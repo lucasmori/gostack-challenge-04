@@ -39,7 +39,7 @@ The project was developed using the following technologies:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 - [React Native](https://reactnative.dev/)
 - [Node.js](https://nodejs.org/)
-- [Back-end](https://github.com/lucasmori/gostack-challenge-01)
+- [Back-end](https://github.com/lucasmori/gostack-challenge-02)
 
 <a id="how-to-use"></a>
 
@@ -53,7 +53,7 @@ The project was developed using the following technologies:
 1.  Make the clone:
 
 ```shell
-$ git clone https://github.com/lucasmori/gostack-challenge-03.git
+$ git clone https://github.com/lucasmori/gostack-challenge-04.git
 ```
 
 2. Running the application:
